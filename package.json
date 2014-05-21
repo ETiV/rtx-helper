@@ -1,0 +1,9 @@
+{
+  "name": "rtx-helper",
+  "version": "0.0.1",
+  "main": "main.js",
+  "author": "ETiV",
+  "dependencies": {
+    "request": "*"
+  }
+}
