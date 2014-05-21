@@ -1,5 +1,6 @@
 # rtx-helper
-----
+
+
 A Node.js RTX(Tencent) Helper
 Supplies getUserList, getOnlineState, sendNotify.
 
@@ -13,7 +14,7 @@ Edit `nrhIPLimit.json` to fix your situation. Otherwise you will not get the pri
 
 Coding:
 
-```
+```javascript
 // load the module
 var rtx = require('rtx-helper');
 // setup RTX API host and path prefix
