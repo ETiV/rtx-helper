@@ -1,5 +1,7 @@
-# Node.js RTX(Tencent) Helper
+# rtx-helper
 ----
+A Node.js RTX(Tencent) Helper
+Supplies getUserList, getOnlineState, sendNotify.
 
 ## HOW TO USE
 
